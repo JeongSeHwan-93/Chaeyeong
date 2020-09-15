@@ -1,0 +1,72 @@
+.u-section-1 {min-height: 2008px}
+.u-section-1 .u-text-1 {margin: 20px calc(((100% - 1140px) / 2) + 96px) 0 calc(((100% - 1140px) / 2) + 426px)}
+.u-section-1 .u-image-1 {width: 345px; height: 397px; margin: 51px auto 0 calc(((100% - 1140px) / 2) + 20px)}
+.u-section-1 .u-text-2 {margin: -379px calc(((100% - 1140px) / 2) + 666px) 0 calc(((100% - 1140px) / 2) + 426px)}
+.u-section-1 .u-text-3 {margin: 0 calc(((100% - 1140px) / 2) + 154px) 0 calc(((100% - 1140px) / 2) + 426px)}
+.u-section-1 .u-line-1 {transform-origin: center bottom 0; left: 0; top: 564px; position: absolute; transform: rotate(329deg)}
+.u-section-1 .u-line-2 {height: 3px; transform-origin: left center 0; margin: 235px auto 0 0}
+.u-section-1 .u-text-4 {margin: 62px calc(((100% - 1140px) / 2) + 126px) 0 calc(((100% - 1140px) / 2) + 426px)}
+.u-section-1 .u-image-2 {width: 345px; height: 397px; margin: -40px auto 0 calc(((100% - 1140px) / 2) + 20px)}
+.u-section-1 .u-text-5 {margin: -307px calc(((100% - 1140px) / 2) + 666px) 0 calc(((100% - 1140px) / 2) + 426px)}
+.u-section-1 .u-text-6 {margin: -18px calc(((100% - 1140px) / 2) + 154px) 0 calc(((100% - 1140px) / 2) + 426px)}
+.u-section-1 .u-line-3 {height: 3px; transform-origin: left center 0; margin: 220px auto 0 0}
+.u-section-1 .u-text-7 {margin: 30px calc(((100% - 1140px) / 2) + 7px) 0 calc(((100% - 1140px) / 2) + 404px)}
+.u-section-1 .u-image-3 {width: 345px; height: 397px; margin: 51px auto 0 calc(((100% - 1140px) / 2) + 20px)}
+.u-section-1 .u-text-8 {width: 48px; margin: -379px calc(((100% - 1140px) / 2) + 666px) 0 calc(((100% - 1140px) / 2) + 426px)}
+.u-section-1 .u-text-9 {width: 560px; margin: 0 calc(((100% - 1140px) / 2) + 154px) 60px calc(((100% - 1140px) / 2) + 426px)} 
+
+@media (max-width: 1199px){ .u-section-1 .u-text-1 {width: 126px; height: 79px; margin-right: calc(((100% - 1140px) / 2) + 475px); margin-left: calc(((100% - 1140px) / 2) + 539px)}
+.u-section-1 .u-image-1 {margin-left: calc(((100% - 1140px) / 2) + 120px)}
+.u-section-1 .u-text-2 {width: 48px; height: 86px; margin-right: calc(((100% - 1140px) / 2) + 623px); margin-left: calc(((100% - 1140px) / 2) + 469px)}
+.u-section-1 .u-text-3 {width: 560px; height: 192px; margin-right: calc(((100% - 1140px) / 2) + 41px); margin-left: calc(((100% - 1140px) / 2) + 539px)}
+.u-section-1 .u-line-1 {width: 912px; height: 3px; margin: 0 auto 60px calc(((100% - 1140px) / 2) + 8px)}
+.u-section-1 .u-line-2 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-text-4 {width: 462px; height: 79px; margin-right: calc(((100% - 940px) / 2) + 126px); margin-left: calc(((100% - 940px) / 2) + 426px)}
+.u-section-1 .u-image-2 {margin-left: calc(((100% - 940px) / 2) + 20px)}
+.u-section-1 .u-text-5 {width: 48px; height: 86px; margin-right: calc(((100% - 940px) / 2) + 549px); margin-left: calc(((100% - 940px) / 2) + 351px)}
+.u-section-1 .u-text-6 {width: 560px; height: 144px; margin-right: calc(((100% - 940px) / 2) + 154px); margin-left: calc(((100% - 940px) / 2) + 426px)}
+.u-section-1 .u-line-3 {margin-right: initial; margin-left: initial}
+.u-section-1 .u-text-7 {margin-right: calc(((100% - 940px) / 2) + 7px); margin-left: calc(((100% - 940px) / 2) + 404px)}
+.u-section-1 .u-image-3 {margin-left: calc(((100% - 940px) / 2) + 20px)}
+.u-section-1 .u-text-8 {margin-right: calc(((100% - 940px) / 2) + 549px); margin-left: calc(((100% - 940px) / 2) + 351px)}
+.u-section-1 .u-text-9 {margin-right: calc(((100% - 940px) / 2) + 154px); margin-left: calc(((100% - 940px) / 2) + 426px)} }
+
+@media (max-width: 991px){ .u-section-1 .u-text-1 {margin-right: calc(((100% - 1140px) / 2) + 365px); margin-left: calc(((100% - 1140px) / 2) + 649px)}
+.u-section-1 .u-image-1 {margin-left: calc(((100% - 1140px) / 2) + 230px)}
+.u-section-1 .u-text-2 {margin-right: calc(((100% - 1140px) / 2) + 599px); margin-left: calc(((100% - 1140px) / 2) + 493px)}
+.u-section-1 .u-text-3 {margin-right: calc(((100% - 1140px) / 2) + -69px); margin-left: calc(((100% - 1140px) / 2) + 649px)}
+.u-section-1 .u-line-1 {width: 720px; margin-left: calc(((100% - 1140px) / 2) + 210px)}
+.u-section-1 .u-text-4 {margin-right: calc(((100% - 720px) / 2) + 126px); margin-left: calc(((100% - 720px) / 2) + 426px)}
+.u-section-1 .u-image-2 {margin-left: calc(((100% - 720px) / 2) + 20px)}
+.u-section-1 .u-text-5 {margin-right: calc(((100% - 720px) / 2) + 421px); margin-left: calc(((100% - 720px) / 2) + 269px)}
+.u-section-1 .u-text-6 {margin-right: calc(((100% - 720px) / 2) + 154px); margin-left: calc(((100% - 720px) / 2) + 426px)}
+.u-section-1 .u-text-7 {margin-right: calc(((100% - 720px) / 2) + 7px); margin-left: calc(((100% - 720px) / 2) + 404px)}
+.u-section-1 .u-image-3 {margin-left: calc(((100% - 720px) / 2) + 20px)}
+.u-section-1 .u-text-8 {margin-right: calc(((100% - 720px) / 2) + 421px); margin-left: calc(((100% - 720px) / 2) + 269px)}
+.u-section-1 .u-text-9 {margin-right: calc(((100% - 720px) / 2) + 154px); margin-left: calc(((100% - 720px) / 2) + 426px)} }
+
+@media (max-width: 767px){ .u-section-1 .u-image-1 {margin-left: calc(((100% - 1140px) / 2) + 320px)}
+.u-section-1 .u-text-2 {margin-right: calc(((100% - 1140px) / 2) + 580px); margin-left: calc(((100% - 1140px) / 2) + 512px)}
+.u-section-1 .u-line-1 {width: 540px; margin-left: calc(((100% - 1140px) / 2) + 300px)}
+.u-section-1 .u-text-4 {margin-right: calc(((100% - 540px) / 2) + 36px); margin-left: calc(((100% - 540px) / 2) + 336px)}
+.u-section-1 .u-image-2 {margin-left: calc(((100% - 540px) / 2) + 20px)}
+.u-section-1 .u-text-5 {margin-right: calc(((100% - 540px) / 2) + 316px); margin-left: calc(((100% - 540px) / 2) + 202px)}
+.u-section-1 .u-text-6 {margin-right: calc(((100% - 540px) / 2) + 64px); margin-left: calc(((100% - 540px) / 2) + 336px)}
+.u-section-1 .u-text-7 {margin-right: calc(((100% - 540px) / 2) + 7px); margin-left: calc(((100% - 540px) / 2) + 404px)}
+.u-section-1 .u-image-3 {margin-left: calc(((100% - 540px) / 2) + 20px)}
+.u-section-1 .u-text-8 {margin-right: calc(((100% - 540px) / 2) + 316px); margin-left: calc(((100% - 540px) / 2) + 202px)}
+.u-section-1 .u-text-9 {margin-right: calc(((100% - 540px) / 2) + 154px); margin-left: calc(((100% - 540px) / 2) + 426px)} }
+
+@media (max-width: 575px){ .u-section-1 {min-height: 500px}
+.u-section-1 .u-image-1 {width: 340px; height: 391px; margin-left: calc(((100% - 1140px) / 2) + 400px)}
+.u-section-1 .u-text-2 {margin-top: -373px; margin-right: calc(((100% - 1140px) / 2) + 559px); margin-left: calc(((100% - 1140px) / 2) + 533px)}
+.u-section-1 .u-text-3 {margin-right: calc(((100% - 1140px) / 2) + -20px); margin-left: calc(((100% - 1140px) / 2) + 600px)}
+.u-section-1 .u-line-1 {width: 340px; margin-left: calc(((100% - 1140px) / 2) + 400px)}
+.u-section-1 .u-text-4 {margin-right: calc(((100% - 340px) / 2)); margin-left: calc(((100% - 340px) / 2) + 172px)}
+.u-section-1 .u-image-2 {width: 340px; height: 391px; margin-left: calc(((100% - 340px) / 2))}
+.u-section-1 .u-text-5 {margin-top: -301px; margin-right: calc(((100% - 340px) / 2) + 199px); margin-left: calc(((100% - 340px) / 2) + 127px)}
+.u-section-1 .u-text-6 {margin-right: calc(((100% - 340px) / 2)); margin-left: calc(((100% - 340px) / 2) + 200px)}
+.u-section-1 .u-text-7 {margin-right: calc(((100% - 340px) / 2)); margin-left: calc(((100% - 340px) / 2) + 211px)}
+.u-section-1 .u-image-3 {width: 340px; height: 391px; margin-left: calc(((100% - 340px) / 2))}
+.u-section-1 .u-text-8 {margin-top: -373px; margin-right: calc(((100% - 340px) / 2) + 199px); margin-left: calc(((100% - 340px) / 2) + 127px)}
+.u-section-1 .u-text-9 {margin-right: calc(((100% - 340px) / 2) + 154px); margin-left: calc(((100% - 340px) / 2) + 426px)} }

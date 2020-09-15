@@ -1,0 +1,16 @@
+일단 이건 파이참 프로그램이라 파이참을 깔아야해
+
+zip 풀고 index.py를 돌리는 거야!
+index.py 돌리면 파이썬 돌아가면서 
+하나 링크가 뜰거야 ! 그러면 그 링크 클릭하면
+html로 이동
+거기서 submit을 누르면 모델 돌아감
+
+경로 설정 할 때 수정은 많이 해야할거야 
+
+index.py->filename 경로 수정*
+
+main.py -> 모델 경로 수정* fabric, color, length
+
+app.py -> upload_folder = ''-> 내가 보내준 zip 파일 중에 
+C:/?????/PycharmProjects/pythonProject/imgUpdate/uploads 연결시킬 것 
